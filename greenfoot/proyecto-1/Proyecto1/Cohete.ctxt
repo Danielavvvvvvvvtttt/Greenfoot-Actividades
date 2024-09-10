@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cohete
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cohete\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cantidad
+comment1.target=Cohete(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fireProjectile()
+numComments=4
