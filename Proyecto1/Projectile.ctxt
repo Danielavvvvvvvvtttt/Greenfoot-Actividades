@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ @author\ Anderson\ Camacho\r\n\ @email\:\ camachosinh@gmail.com\r\n\ @version\ general\ 1.5\r\n\ \r\n
+comment1.params=
+comment1.target=Projectile()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Metodos\ getter\ and\ setters\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Metodos\ Action\ que\ se\ ejecuta\ siempre\ que\ el\ objeto\ exista\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Metodo\ preparacion\ de\ los\ elementos\ de\ esta\ Clase\r\n
+comment5.params=
+comment5.target=void\ projectileMove()
+comment5.text=\r\n\ Metodos\ de\ Projectile\ completos\ y\ con\ elementos\ completos\ no\ estandares.\r\n
+comment6.params=
+comment6.target=void\ removeFromWorld()
+numComments=7
